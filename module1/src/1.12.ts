@@ -32,7 +32,7 @@ getSpeedInMeterPerSecond(`1000 kmh^-1`)
 const throwError = (msg:string):never=>{
     throw new Error(msg)
 }
-// throwError("Error Hoyegecay")
+// throwError("Error Hoyegecay ki korbo")
 
 
 //
